@@ -18,6 +18,16 @@
         }
     ],
     "default_route_long_name_enabled": true,
+    "route_type_override_configs": [
+        {
+            "original_route_id_regex": "(^[A-Z]{1,2}[0-9]+$)",
+            "route_type": 715
+        },
+        {
+            "original_route_id": "26NSF",
+            "route_type": 715
+        }
+    ],
     "direction_splitter_enabled": true,
     "direction_finder_enabled": true,
     "stop_id_previous_char_configs": [
