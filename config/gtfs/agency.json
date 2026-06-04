@@ -1,0 +1,8 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "00395C",
+    "default_color_comment": "DARK BLUE (from map PDF)",
+    "default_color_enabled": false,
+    "default_color_enabled_comment": "too many pink routes",
+    "default_strings_cleaner_enabled": true
+}

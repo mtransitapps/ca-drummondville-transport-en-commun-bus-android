@@ -1,0 +1,43 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_id_previous_char_configs": [
+        {
+            "char": "CH",
+            "id_part": 308000
+        },
+        {
+            "char": "CS",
+            "id_part": 319000
+        }
+    ],
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "NSF",
+            "route_id": 14190600
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "route_type_override_configs": [
+        {
+            "original_route_id_regex": "(^[A-Z]{1,2}[0-9]+$)",
+            "route_type": 715
+        },
+        {
+            "original_route_id": "26NSF",
+            "route_type": 715
+        }
+    ],
+    "direction_splitter_enabled": true,
+    "direction_finder_enabled": true,
+    "stop_id_previous_char_configs": [
+        {
+            "char": "CH",
+            "id_part": 308000
+        },
+        {
+            "char": "CS",
+            "id_part": 319000
+        }
+    ]
+}
