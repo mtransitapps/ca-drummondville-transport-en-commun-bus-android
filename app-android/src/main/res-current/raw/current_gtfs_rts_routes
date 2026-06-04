@@ -1,0 +1,79 @@
+1,'1','Term urbain - Boul Chutes','DF71FF',49,3
+2,'2','Term urbain - Promenades / Cégep','E60000',50,3
+3,'3','Term urbain - Promenades','E69700',51,3
+4,'4','Term urbain - Cégep','257100',52,3
+6,'6','Term urbain - St-Charles','B3B300',54,3
+7,'7','Carref Super C - Rocheleau','8500A8',55,3
+8,'8','Carref Super C - St-Roch S','00E6A9',56,3
+40004,'4D','Term urbain - Cégep','257100',1680,3
+140005,'5N','Term urbain - Promenades','004DA8',1721,3
+190005,'5S','Term urbain - Pl Charpentier','004DA8',1726,3
+308700,'CH700','Sect St-Charles - Hemming','',64075250,3
+308705,'CH705','Sect St-Charles - Hemming','',64075255,3
+319600,'CS600','Sect Ctr santé','',64401990,3
+319605,'CS605','Sect Ctr santé','',64401995,3
+319615,'CS615','Sect Ctr santé','',64402026,3
+319625,'CS625','Sect Ctr santé','',64402057,3
+1000400,'A400','Sect St-Joachim','',1987923,3
+1000405,'A405','Sect St-Joachim','',1987928,3
+1000410,'A410','Sect St-Joachim','',1987954,3
+1000415,'A415','Sect St-Joachim','',1987959,3
+1000420,'A420','Sect St-Joachim','',1987985,3
+3000700,'C700','Sect St-Charles','',2050388,3
+3000710,'C710','Sect St-Charles','',2050419,3
+3000730,'C730','Sect St-Charles','',2050481,3
+3000790,'C790','Sect St-Charles','',2050667,3
+7000100,'G100','Sect Grantham','',2163786,3
+7000110,'G110','Sect Grantham','',2163817,3
+7000115,'G115','Sect Grantham','',2163822,3
+7000120,'G120','Sect Grantham','',2163848,3
+7000125,'G125','Sect Grantham','',2163853,3
+7000130,'G130','Sect Grantham','',2163879,3
+7000140,'G140','Sect Grantham','',2163910,3
+7000145,'G145','Sect Grantham','',2163915,3
+7000150,'G150','Sect Grantham','',2163941,3
+7000155,'G155','Sect Grantham','',2163946,3
+7000160,'G160','Sect Grantham','',2163972,3
+10000500,'J500','Sect Commune','',2257003,3
+10000505,'J505','Sect Commune','',2257008,3
+10000510,'J510','Sect Commune','',2257034,3
+10000515,'J515','Sect Commune','',2257039,3
+10000520,'J520','Sect Commune','',2257065,3
+10000525,'J525','Sect Commune','',2257070,3
+10000530,'J530','Sect Commune','',2257096,3
+10000535,'J535','Sect Commune','',2257101,3
+10000540,'J540','Sect Commune','',2257127,3
+10000545,'J545','Sect Commune','',2257132,3
+10000550,'J550','Sect Commune','',2257158,3
+10000555,'J555','Sect Commune','',2257163,3
+13000600,'M600','Sect Vigneron','',2347337,3
+13000630,'M630','Sect Vigneron','',2347430,3
+13000650,'M650','Sect Vigneron','',2347492,3
+13000680,'M680','Sect Vigneron','',2347585,3
+14000800,'N800','Sect St-Nicéphore','',2379050,3
+14000805,'N805','Sect St-Nicéphore','',2379055,3
+14000810,'N810','Sect St-Nicéphore','',2379081,3
+14000820,'N820','Sect St-Nicéphore','',2379112,3
+14000830,'N830','Sect St-Nicéphore','',2379143,3
+14000840,'N840','Sect St-Nicéphore','',2379174,3
+14000850,'N850','Sect St-Nicéphore','',2379205,3
+14000860,'N860','Sect St-Nicéphore','',2379236,3
+14000875,'N875','Sect St-Nicéphore','',2379272,3
+14000878,'N878','Sect St-Nicéphore','',2379275,3
+14000880,'N880','Sect St-Nicéphore','',2379298,3
+14000885,'N885','Sect St-Nicéphore','',2379303,3
+14000890,'N890','Sect St-Nicéphore','',2379329,3
+14000892,'N892','Sect St-Nicéphore','',2379331,3
+14000895,'N895','Sect St-Nicéphore','',2379334,3
+14190600,'NSF','Navette St-François','00CDFF',47862365,3
+18000300,'R300','Sect Robert-Bernard','',2493409,3
+18000310,'R310','Sect Robert-Bernard','',2493440,3
+18000325,'R325','Sect Robert-Bernard','',2493476,3
+22000200,'V200','Sect rue St-Pierre','',2611612,3
+22000210,'V210','Sect rue St-Pierre','',2611643,3
+22000220,'V220','Sect rue St-Pierre','',2611674,3
+22000230,'V230','Sect rue St-Pierre','',2611705,3
+22000235,'V235','Sect rue St-Pierre','',2611710,3
+22000240,'V240','Sect rue St-Pierre','',2611736,3
+22000250,'V250','Sect rue St-Pierre','',2611767,3
+22000260,'V260','Sect rue St-Pierre','',2611798,3

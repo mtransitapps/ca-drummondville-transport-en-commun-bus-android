@@ -1,13 +1,33 @@
 {
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
+    "route_id_previous_char_configs": [
+        {
+            "char": "CH",
+            "id_part": 308000
+        },
+        {
+            "char": "CS",
+            "id_part": 319000
+        }
+    ],
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "NSF",
+            "route_id": 14190600
+        }
+    ],
     "default_route_long_name_enabled": true,
+    "direction_splitter_enabled": true,
     "direction_finder_enabled": true,
-    "allow_non_descriptive_head_signs_until": {},
-    "trip_headsign_remove_via_TODO": true,
-    "trip_id_cleanup_regex_TODO": "^\\d{8}-",
-    "trip_headsign_cleaners": [],
-    "stop_id_cleanup_regex_TODO": "-",
-    "use_stop_code_for_stop_id": true,
-    "stop_name_cleaners": []
+    "stop_id_previous_char_configs": [
+        {
+            "char": "CH",
+            "id_part": 308000
+        },
+        {
+            "char": "CS",
+            "id_part": 319000
+        }
+    ],
 }
