@@ -1,19 +1,19 @@
-1,'1','Term urbain - Boul Chutes','DF71FF',49,3
-2,'2','Term urbain - Promenades / Cégep','E60000',50,3
-3,'3','Term urbain - Promenades','E69700',51,3
-4,'4','Term urbain - Cégep','257100',52,3
-6,'6','Term urbain - St-Charles','B3B300',54,3
+1,'1','Term Urbain - Boul Chutes','DF71FF',49,3
+2,'2','Term Urbain - Promenades / Cégep','E60000',50,3
+3,'3','Term Urbain - Promenades','E69700',51,3
+4,'4','Term Urbain - Cégep','257100',52,3
+6,'6','Term Urbain - St-Charles','B3B300',54,3
 7,'7','Carref Super C - Rocheleau','8500A8',55,3
 8,'8','Carref Super C - St-Roch S','00E6A9',56,3
-40004,'4D','Term urbain - Cégep','257100',1680,3
-140005,'5N','Term urbain - Promenades','004DA8',1721,3
-190005,'5S','Term urbain - Pl Charpentier','004DA8',1726,3
+40004,'4D','Term Urbain - Cégep','257100',1680,3
+140005,'5N','Term Urbain - Promenades','004DA8',1721,3
+190005,'5S','Term Urbain - Pl Charpentier','004DA8',1726,3
 308700,'CH700','Sect St-Charles - Hemming','E75FE9',64075250,715
 308705,'CH705','Sect St-Charles - Hemming','E75FE9',64075255,715
-319600,'CS600','Sect Ctr santé','E75FE9',64401990,715
-319605,'CS605','Sect Ctr santé','E75FE9',64401995,715
-319615,'CS615','Sect Ctr santé','E75FE9',64402026,715
-319625,'CS625','Sect Ctr santé','E75FE9',64402057,715
+319600,'CS600','Sect Ctr Santé','E75FE9',64401990,715
+319605,'CS605','Sect Ctr Santé','E75FE9',64401995,715
+319615,'CS615','Sect Ctr Santé','E75FE9',64402026,715
+319625,'CS625','Sect Ctr Santé','E75FE9',64402057,715
 1000400,'A400','Sect St-Joachim','E75FE9',1987923,715
 1000405,'A405','Sect St-Joachim','E75FE9',1987928,715
 1000410,'A410','Sect St-Joachim','E75FE9',1987954,715
@@ -69,11 +69,11 @@
 18000300,'R300','Sect Robert-Bernard','E75FE9',2493409,715
 18000310,'R310','Sect Robert-Bernard','E75FE9',2493440,715
 18000325,'R325','Sect Robert-Bernard','E75FE9',2493476,715
-22000200,'V200','Sect rue St-Pierre','E75FE9',2611612,715
-22000210,'V210','Sect rue St-Pierre','E75FE9',2611643,715
-22000220,'V220','Sect rue St-Pierre','E75FE9',2611674,715
-22000230,'V230','Sect rue St-Pierre','E75FE9',2611705,715
-22000235,'V235','Sect rue St-Pierre','E75FE9',2611710,715
-22000240,'V240','Sect rue St-Pierre','E75FE9',2611736,715
-22000250,'V250','Sect rue St-Pierre','E75FE9',2611767,715
-22000260,'V260','Sect rue St-Pierre','E75FE9',2611798,715
+22000200,'V200','Sect Rue St-Pierre','E75FE9',2611612,715
+22000210,'V210','Sect Rue St-Pierre','E75FE9',2611643,715
+22000220,'V220','Sect Rue St-Pierre','E75FE9',2611674,715
+22000230,'V230','Sect Rue St-Pierre','E75FE9',2611705,715
+22000235,'V235','Sect Rue St-Pierre','E75FE9',2611710,715
+22000240,'V240','Sect Rue St-Pierre','E75FE9',2611736,715
+22000250,'V250','Sect Rue St-Pierre','E75FE9',2611767,715
+22000260,'V260','Sect Rue St-Pierre','E75FE9',2611798,715
