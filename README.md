@@ -3,9 +3,9 @@
 
 <img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
-## Coming soon...
+## Download on the Play Store
 
-Currently being set up and tested before initial release.
+<a href="https://play.google.com/store/apps/details?id=org.mtransit.android.ca_drummondville_transport_en_commun_bus"><img width="25%" height="25%" alt="Get it on the Play Store" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
 
 ## Screenshots
 
@@ -17,7 +17,7 @@ Currently being set up and tested before initial release.
 
 ## Social
 
-[Facebook](https://www.facebook.com/MonTransit) | [Twitter/X](https://twitter.com/montransit) | [Instagram](https://www.instagram.com/mtransit.apps) | [Threads](https://www.threads.com/@mtransit.apps)
+[Facebook](https://www.facebook.com/MonTransit) | [Twitter/X](https://x.com/montransit) | [Instagram](https://www.instagram.com/mtransit.apps) | [Threads](https://www.threads.com/@mtransit.apps)
 
 ## License
 
